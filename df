@@ -1,0 +1,133 @@
+[33mcommit a73973898af19de2a0ce5fdbf3bda4b692655325[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 919f7fc baced7a
+Author: your name <you@example.com>
+Date:   Fri Jun 7 00:53:14 2019 +0530
+
+    hh
+
+[33mcommit baced7a3b0856f78c614bb90279045ed6c0880d3[m[33m ([m[1;32mHelloTest[m[33m)[m
+Author: your name <you@example.com>
+Date:   Fri Jun 7 00:50:27 2019 +0530
+
+    h
+
+[33mcommit 919f7fc94d4bd8ee976549dc87497bef8987617f[m
+Merge: 90e1df0 de72982
+Author: your name <you@example.com>
+Date:   Fri Jun 7 00:48:53 2019 +0530
+
+    Merge branch 'HelloTest'
+
+[33mcommit de729829e452f8102ed6da3106d4445fae688cd2[m
+Author: your name <you@example.com>
+Date:   Fri Jun 7 00:43:58 2019 +0530
+
+    added hello test beanch
+
+[33mcommit 90e1df0d4700cb5b5df89a695d5c7cc1b19c3c41[m
+Author: your name <you@example.com>
+Date:   Fri Jun 7 00:42:02 2019 +0530
+
+    master change
+
+[33mcommit fb3514990efc3652971c066a219f70eda79cbcaa[m
+Author: your name <you@example.com>
+Date:   Fri Jun 7 00:34:49 2019 +0530
+
+    added a file
+
+[33mcommit e8956182cc87e6b9a2e6c7ce996810082ade0d31[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a074ee1 3014404
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:58:10 2019 +0530
+
+    Merge pull request #4 from temkarpratik/revert-2-readme
+    
+    revert branch 1 - pull req
+
+[33mcommit 301440439b9cc12b430dd478884f872c04722115[m[33m ([m[1;31morigin/revert-2-readme[m[33m)[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:57:28 2019 +0530
+
+    revert branch 1
+    
+    changes  tor revert branch 1
+
+[33mcommit a074ee1c4ad4198b979b4189dba8e593b68d234f[m
+Merge: 37ed3d6 4dba4fb
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:56:11 2019 +0530
+
+    Merge pull request #3 from temkarpratik/revert-2-readme
+    
+    Revert "new commit 2"
+
+[33mcommit 4dba4fb2eda41f53a1ecc59042f963f5506d2cc0[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:55:55 2019 +0530
+
+    Revert "new commit 2"
+
+[33mcommit 37ed3d612bd0cfbd81ea68266b4322a73df7736c[m
+Merge: 8acceee 8362138
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:55:24 2019 +0530
+
+    Merge pull request #2 from temkarpratik/readme
+    
+    new commit 2-merge 2
+
+[33mcommit 83621389e7c42ede7f2a28b98ff5b3aa9ad3ed8b[m[33m ([m[1;31morigin/readme[m[33m)[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:54:25 2019 +0530
+
+    new commit 2
+    
+    new commit 2 -practice
+
+[33mcommit 8acceeedd7d2def26d6263102f9935049a8da64f[m
+Merge: 76e1eb4 f4b8465
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:52:05 2019 +0530
+
+    Merge pull request #1 from temkarpratik/readme
+    
+    first code in git-merging
+
+[33mcommit f4b846523c939d3b9fc957996728d6b7d3170bff[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:49:20 2019 +0530
+
+    pull req 1
+    
+    pull req 1
+
+[33mcommit e2a6d54ab2e13b94c58ee65325a4b2ccc273a823[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:44:57 2019 +0530
+
+    new
+    
+    new line
+
+[33mcommit afd8769691870688c0d69ed705b1c064add32783[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:42:04 2019 +0530
+
+    added a line
+    
+    naah
+
+[33mcommit 407fb049a55f96df1b7ebbe5491600ccdb935487[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:30:12 2019 +0530
+
+    first code in git
+    
+    aabra ka dabra
+
+[33mcommit 76e1eb418fa2ae391ef004c383a73aaac0a60917[m
+Author: temkarpratik <temkarpratik@gmail.com>
+Date:   Mon Jan 28 14:22:02 2019 +0530
+
+    Initial commit
